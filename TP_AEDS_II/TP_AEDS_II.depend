@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1530421686 source:c:\users\vinícius\desktop\tp_aeds_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreb.h"
+
+1530421274 source:c:\users\vinícius\desktop\tp_aeds_ii\arvoreb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvoreb.h"
+
+1530421274 c:\users\vinícius\desktop\tp_aeds_ii\arvoreb.h
+
